@@ -1,7 +1,7 @@
-numpy==1.23.4
-pandas==1.5.1
+numpy
+pandas
 pickle
-plotly==5.11.0
-scikit_learn==1.2.2
-streamlit==1.18.1
+plotly
+scikit_learn
+streamlit
 altair<5.0.0
