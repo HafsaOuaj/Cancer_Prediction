@@ -1,3 +1,4 @@
+pip --upgrade
 numpy
 pandas
 pickle
